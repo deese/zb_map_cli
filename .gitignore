@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Tool output
+*.json
+*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
